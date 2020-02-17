@@ -1,0 +1,23 @@
+#news {
+  padding: 2rem 0;
+}
+
+.news-list-item {
+  list-style: none;
+}
+
+.item-data-text {
+  padding: 1rem 0;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.item-user-data-email {
+  padding: 0.5rem 0;
+  opacity: 0.6;
+}
+
+.item-user-data-text {
+  max-width: 55rem;
+}

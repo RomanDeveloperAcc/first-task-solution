@@ -1,0 +1,63 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+}
+
+#feedback,
+#fan-feedbacks {
+  padding: 2rem 0;
+}
+
+.fan-feedbacks-list {
+  list-style: none;
+}
+
+.fan-feedbacks-list-item {
+  border: 1px solid black;
+  padding: 2rem;
+  margin-bottom: 8px;
+}
+
+.feedback-user-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.feedback-user-data-email {
+  margin-right: 2rem;
+}
+
+.feedback-user-data-text {
+  width: 1rem;
+}
+
+.images-content {
+  background-color: rgb(34, 55, 77);
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1rem 0;
+}
+
+.carousel-item-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carousel-img {
+  width: 33rem;
+  height: 18rem;
+  margin: 20px;
+}
+
+.footer-i {
+  margin: 20px 10px;
+}
+
+.white-section {
+  background-color: #fff;
+  text-align: left;
+}

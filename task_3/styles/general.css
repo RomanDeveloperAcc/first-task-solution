@@ -1,0 +1,28 @@
+#footer {
+  color: rgb(34, 55, 77);
+  background-color: #fff;
+  align-items: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-links {
+  padding: 2rem 0;
+}
+
+.footer-link {
+  color: rgb(34, 55, 77);
+
+  margin: 2rem;
+}
+.footer-link:hover {
+  color: rgb(46, 77, 110);
+}
+
+.navbar-brand {
+  margin-right: 1rem;
+}
