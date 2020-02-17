@@ -4,10 +4,10 @@ To use this project you must have NodeJS and npm installed.
 
 npm i
 
-2. To run the main file write:
+2. To run the server write:
 
 npm run start
 
-3. To run the server write:
+3. To run the server in dev mode use:
 
 npm run dev
